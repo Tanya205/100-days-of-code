@@ -1,5 +1,3 @@
-<html>
-     <body> 
            <h1> 100-days-of-code </h1>
            <h3> Day 1 </h3>
            <ol>
@@ -21,8 +19,7 @@
               
                
           
-       </body>
-</html>
+
            
    
    
