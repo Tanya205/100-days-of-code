@@ -33,7 +33,7 @@
            <h3> Day 12 </h3>
            <p3> 30 days of code -  Day 2 - Operators (use of round) </p3>
            <h3> Day 13 </h3>
-           <p3> <b> Sum of digits of a five digit number in C </b> 3 methods are - </p3>
+           <p3> <b> Sum of digits of a five digit number in C. </b> The 3 ways of writing the code are - </p3>
            <ul>
                <li> Without any loop (won't work if we are asked to find the sum of a number with infinite digits or a big number) </li>
                <li> With for loop </li>
